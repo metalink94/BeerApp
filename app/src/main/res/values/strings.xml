@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BeerApp</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="need_more_info">Необходимо заполнить все поля</string>
 </resources>
